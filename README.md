@@ -1,6 +1,9 @@
-# udacity-project2
-### Udacity's nano degree program: Robotics Software Engineering  
+### Nano degree program: Robotics Software Engineering  
+
 **Project Title**: Go Chase It! 
+
+By Navjot Kaur
+
 
 **Project Goals**: 
 - Design and build a 4 wheeled skid-steering robot equipped with a camera and lidar,
